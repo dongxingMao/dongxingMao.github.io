@@ -15,12 +15,12 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Dongxing Mao"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Multimodal Generation & Multimodal LLMs"
-  location         : "Seattle / Singapore"
-  employer         : "Microsoft Research / National University of Singapore"
+  avatar           : "images/photo.jpg"
+  bio              : "Msc student at NUS"
+  location         : 
+  employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=RLVSYY0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=RLVSYY0AAAAJ"
   email            : "m962479949@gmail.com"
   researchgate     :
   uri              :
