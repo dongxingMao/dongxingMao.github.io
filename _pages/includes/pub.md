@@ -14,7 +14,7 @@ Check out the full publication list at my <a href='https://scholar.google.com/ci
 
 <b>TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation</b><br>
 <i>ICML 2026</i><br>
-<b>Dongxing Mao<sup>†</sup></b>, Alex Jinpeng Wang<sup>†</sup>, Jiawei Zhang, Weiming Han, Zhuobai Dong, Linjie Li, Yiqi Lin, Zhengyuan Yang, Libo Qin, Fuwei Zhang, Lijuan Wang, Min Li.(<sup>†</sup>equal contribution)<br>
+<b>Dongxing Mao</b>, Alex Jinpeng Wang, Jiawei Zhang, Weiming Han, Zhuobai Dong, Linjie Li, Yiqi Lin, Zhengyuan Yang, Libo Qin, Fuwei Zhang, Lijuan Wang, Min Li.<br>
 
 [<a href="https://textatlas5m.github.io/">Project Page</a>][<a href="https://huggingface.co/datasets/CSU-JPG/TextAtlas5M">Datasets</a>][<a href="https://arxiv.org/abs/2502.07870">arXiv</a>]
 [<a href="https://github.com/CSU-JPG/TextAtlas">Github</a>]<br>
@@ -29,7 +29,9 @@ Check out the full publication list at my <a href='https://scholar.google.com/ci
 
 <b>Residual Decoder Adapter: ID-Preserving Tokenizer Adaption for Autoregressive Text Rendering</b><br>
 <i>CVPR 2026</i><br>
-<b>Dongxing Mao<sup>†</sup></b>, Alex Jinpeng Wang<sup>†</sup>, Jiahao Tang, Kevin Qinghong Lin, Linjie Li, Zhengyuan Yang, Lijuan Wang, Min Li, Jingru Tan.(<sup>†</sup>equal contribution)<br> 
+<!-- <b>Dongxing Mao<sup>†</sup></b>, Alex Jinpeng Wang<sup>†</sup>, Jiahao Tang, Kevin Qinghong Lin, Linjie Li, Zhengyuan Yang, Lijuan Wang, Min Li, Jingru Tan.(<sup>†</sup>equal contribution)<br>  -->
+
+<b>Dongxing Mao</b>, Alex Jinpeng Wang, Jiahao Tang, Kevin Qinghong Lin, Linjie Li, Zhengyuan Yang, Lijuan Wang, Min Li, Jingru Tan.<br> 
 
 [<a href="https://github.com/CSU-JPG/RDA">Project Page</a>][<a href="https://arxiv.org/abs/2606.01911v1">arXiv</a>]
 [<a href="https://github.com/CSU-JPG/RDA">Github</a>]<br>
