@@ -19,6 +19,8 @@ Check out the full publication list at my <a href='https://scholar.google.com/ci
 [<a href="https://textatlas5m.github.io/">Project Page</a>][<a href="https://huggingface.co/datasets/CSU-JPG/TextAtlas5M">Datasets</a>][<a href="https://arxiv.org/abs/2502.07870">arXiv</a>]
 [<a href="https://github.com/CSU-JPG/TextAtlas">Github</a>]<br>
 
+<b>🌟🌟<b style="color:#c0392b;">100K+ downloads on Hugging Face🌟🌟</b></b><br>
+
 </div>
 </div>
 
@@ -54,7 +56,7 @@ Prompt-aligned dataset for layout-aware text rendering.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Workshop</div><a href="images/cvpr_ws.png"><img src='images/cvpr_ws.png' alt="VCode" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <b>VCode: A Multimodal Coding Benchmark with SVG as Symbolic Visual Representation</b><br>
-<i>CVPR 2026, Visual Concepts Workshop</i> <b style="color:red;">Oral</b><br>
+<i>CVPR 2026, Visual Concepts Workshop</i> <b style="color:#c0392b;">Oral</b><br>
 Kevin Qinghong Lin<sup>†</sup>, Yuhao Zheng<sup>†</sup>, Hangyu Ran<sup>†</sup>, <b>Dongxing Mao</b>, Linjie Li, Philip Torr, Alex Jinpeng Wang(<sup>†</sup>equal contribution)<br>
 [<a href="https://csu-jpg.github.io/VCode/">Project Page</a>][<a href="https://arxiv.org/abs/2511.02778">arXiv</a>][<a href="https://github.com/CSU-JPG/VCode">Github</a>]<br>
 
