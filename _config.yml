@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Dongxing Mao"
-description              : "Dongxing Mao's academic homepage: unified multimodal generation, multimodal LLMs, and dense text rendering."
+description              : 
 repository               : "dongxingMao/homepage"
 google_scholar_stats_use_cdn : true
 
@@ -16,7 +16,7 @@ baidu_site_verification  :
 author:
   name             : "Dongxing Mao"
   avatar           : "images/photo.jpg"
-  bio              : "Msc student at NUS"
+  bio              : "Unified Model · MLLMs"
   location         : 
   employer         : 
   pubmed           :
