@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Experience"
-    url: "/#-research-experience"
+    url: "/#Experience"
 
-  - title: "Education"
-    url: "/#-education"
+  # - title: "Education"
+  #   url: "/#Education"
 
-  - title: "Service"
-    url: "/#-service"
+  # - title: "Service"
+  #   url: "/#academic-service"
 
   - title: "CV"
-    url: "/files/cv_dongxing_updated.pdf"
+    url: "/files/cv_dongxing.pdf"
