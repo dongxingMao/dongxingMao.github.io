@@ -29,7 +29,7 @@ Check out the full publication list at my <a href='https://scholar.google.com/ci
 
 <b>Residual Decoder Adapter: ID-Preserving Tokenizer Adaption for Autoregressive Text Rendering</b><br>
 <i>CVPR 2026</i><br>
-<b>Dongxing Mao<sup>†</sup></b>, Alex Jinpeng Wang<sup>†</sup>, Jiahao Tang, Kevin Qinghong Lin, Linjie Li, Zhengyuan Yang, Lijuan Wang, Min Li, Jingru Tan.(<sup>†</sup>equal contribution)<br> 
+<b>Dongxing Mao<sup>†</sup></b>, Alex Jinpeng Wang<sup>†</sup>, Jiahao Tang, Kevin Qinghong Lin, Linjie Li, Zhengyuan Yang, Lijuan Wang, Min Li, Jingru Tan.<br> 
 
 [<a href="https://github.com/CSU-JPG/RDA">Project Page</a>][<a href="https://arxiv.org/abs/2606.01911v1">arXiv</a>]
 [<a href="https://github.com/CSU-JPG/RDA">Github</a>]<br>
