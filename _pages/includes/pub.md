@@ -37,6 +37,18 @@ Check out the full publication list at my <a href='https://scholar.google.com/ci
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><a href="images/mm26-spiral.png"><img src='images/mm26-spiral.png' alt="SPIRAL framework for self-improving vision-text alignment" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Same Semantics, Different Paths: Self-Improving Alignment for Vision-Text Compression</b><br>
+<i>ACM MM 2026</i> <b style="color:#c0392b;">Oral</b><br>
+Tianyu Liang, Xiangxi Zheng, Yilin Wang, <b>Dongxing Mao<sup>*</sup></b> (<sup>*</sup>corresponding author)<br>
+
+[<a href="https://arxiv.org/abs/2608.02109">arXiv</a>][<a href="https://github.com/Tianyu-Liang-seu/SPIRAL">Github</a>]<br>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><a href="images/aaai26.png"><img src='images/aaai26.png' alt="TextGround4M" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -50,6 +62,18 @@ Check out the full publication list at my <a href='https://scholar.google.com/ci
 <!-- <div style="text-align: justify">
 Prompt-aligned dataset for layout-aware text rendering.
 </div> -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="images/agentic-videogen26.jpg"><img src='images/agentic-videogen26.jpg' alt="Agentic video generation, world modeling, and recursive self-improvement" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement</b><br>
+<i>arXiv preprint, 2026</i><br>
+Liaoyuan Fan<sup>†</sup>, Yuhao Zheng<sup>†</sup>, <b>Dongxing Mao<sup>†</sup></b>, Hangyu Ran<sup>†</sup>, Siyuan Hu<sup>†</sup>, Weijia Mao, Rui Zhao, Weijia Wu, Guian Fang, Yanzhe Chen, Zeyu Zhu, Yuxin Jiang, Yiren Song, Yuchao Gu, Junchao Yi, Qi Hu, Dan Kong, Alex Jinpeng Wang, Kevin Qinghong Lin, Mike Zheng Shou, Wei Liu. (<sup>†</sup>equal contribution)<br>
+
+[<a href="https://agentic-videogen.github.io/">Project Page</a>][<a href="https://arxiv.org/abs/2610.40191">arXiv</a>][<a href="https://github.com/agentic-videogen/awesome-agentic-videogen">Github</a>][<a href="https://huggingface.co/papers/2610.40191">Hugging Face</a>]<br>
+
 </div>
 </div>
 
